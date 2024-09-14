@@ -7,7 +7,7 @@ import numpy as np
 from artoria import display
 from pendragon import Grading
 
-ANSWER_KEYS = ['A'] * 120
+ANSWER_KEYS = ['A'] * 50
 NUM_QUESTIONS = 50
 
 class GradingApp:
